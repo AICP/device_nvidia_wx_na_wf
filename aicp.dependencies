@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "AICP/device_nvidia_shieldtablet",
+    "target_path": "device/nvidia/shieldtablet",
+    "branch":      "lp5.1"
+  },
+  {
+    "repository": "AICP/kernel_nvidia_shieldtablet",
+    "target_path": "kernel/nvidia/shieldtablet",
+    "branch":      "lp5.1"
+  },
+  {
+    "repository": "AICP/proprietary_vendor_nvidia",
+    "target_path": "vendor/nvidia",
+    "branch":      "lp5.1"
+  }
+]
